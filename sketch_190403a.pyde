@@ -46,7 +46,6 @@ def draw():
 
 #https://i.ebayimg.com/00/s/NTA4WDQwMA==/z/0pwAAOSwgmtaM7Tg/$_20.JPG
 #https://www.pkt.pl/imgb/product/97/22/okulary-oakley-0oo9265-24-5c64d69c-1.png
-#https://3.bp.blogspot.com/-RApq0SfgstM/Vv1nHzkWqaI/AAAAAAAAC2Y/oIjQnj65T1EB_P-iwT8GhrFTXUvAxga5w/s1600/beard-319331_960_720.png
 #http://www.dbamyozeby.net.pl/wp-content/uploads/2018/04/czysty-jezyk.png
 #http://stylistki.pl/kapelusz-damski-top-secret-i50252.png
 
